@@ -46,5 +46,5 @@ This repository contains resources for learning MySQL. Whether you're new to dat
 To get started with the tutorial, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/codeefy/mysql-tutorial.git
+git clone https://github.com/codeefy/Learn-MYSQL-with-me.git
 
